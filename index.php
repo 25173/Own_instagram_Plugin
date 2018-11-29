@@ -10,13 +10,15 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<i class="fas fa-heart"></i>
-
+<div id="instaProfile"></div>
 <div id="instafeed"></div>
 <button id="btn-instafeed-load" class="btn">Load more</button>
 
-<script src="https://unpkg.com/ionicons@4.4.7/dist/ionicons.js"></script>
-<script type="text/javascript" src="js/jquery-min.js"></script>
+
+
+
+    <script src="https://unpkg.com/ionicons@4.4.7/dist/ionicons.js"></script>
+    <script type="text/javascript" src="js/jquery-min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="js/instafeed.min.js"></script>
 
