@@ -1,8 +1,4 @@
-let userid = '8605744481';
-let accessToken = '8605744481.1677ed0.08432c4faa91471f847147714739d838';
 
-let accesstokenHaarpiraat = '6258864564.1677ed0.58537fe7721f487286b7f72483ab7113';
-let useridhaarpiraat = '6258864564';
 $(document).ready(function() {
 
     let btnInstafeedLoad = document.getElementById("btn-instafeed-load");
